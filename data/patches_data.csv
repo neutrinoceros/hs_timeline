@@ -1,0 +1,56 @@
+date,description,url,kind
+11-08-2016,Karazhan,https://hearthstone.gamepedia.com/Patch_6.0.0.13921,adventure
+22-07-2014,Naxx,https://hearthstone.gamepedia.com/Patch_1.1.0.6024,adventure
+02-04-2015,BM,https://hearthstone.gamepedia.com/Patch_2.4.0.8311,adventure
+12-11-2015,LoE,https://hearthstone.gamepedia.com/Patch_4.0.0.10833,adventure
+5-11-2018,Classic set additions,https://hearthstone.gamepedia.com/Patch_12.4.0.27405,batch
+3-06-2019,Sn1p-Sn4p,https://hearthstone.gamepedia.com/Patch_14.4.0.31268,batch
+6-11-2017,Marin the Fox,https://hearthstone.gamepedia.com/Patch_9.4.0.22115,batch
+5-11-2019,Sathrovarr,https://hearthstone.gamepedia.com/Patch_15.6.0.35747,batch
+01-12-2016,MSG,https://hearthstone.gamepedia.com/Patch_7.0.0.15590,expansion
+6-04-2017,Un'Goro,https://hearthstone.gamepedia.com/Patch_8.0.0.18336,expansion
+12-04-2018,Witchwood,https://hearthstone.gamepedia.com/Patch_11.0.0.23966,expansion
+26-04-2016,WoG,https://hearthstone.gamepedia.com/Patch_5.0.0.12574,expansion
+10-08-2017,KoFT,https://hearthstone.gamepedia.com/Patch_9.0.0.20457,expansion
+7-12-2017,K&C,https://hearthstone.gamepedia.com/Patch_10.0.0.22611,expansion
+7-08-2018,Boomsday,https://hearthstone.gamepedia.com/Patch_12.0.0.25770,expansion
+4-12-2018,Rastakhan,https://hearthstone.gamepedia.com/Patch_13.0.0.27845,expansion
+09-04-2019,RoS,https://hearthstone.gamepedia.com/Patch_14.0.0.29933,expansion
+06-08-2019,SoU,https://hearthstone.gamepedia.com/Patch_15.0.0.32708,expansion
+10-12-2019,DoD,https://hearthstone.gamepedia.com/Patch_16.0.0.37060,expansion
+8-12-2014,GvG,https://hearthstone.gamepedia.com/Patch_2.0.0.7234,expansion
+24-08-2015,TGT,https://hearthstone.gamepedia.com/Patch_3.0.0.9786,expansion
+11-03-2014,Game release,https://hearthstone.gamepedia.com/Patch_1.0.0.4973,expansion
+11-11-2019,Battlegrounds,https://hearthstone.gamepedia.com/Patch_15.6.2.36393,feature
+8-10-2019,1k portraits,https://hearthstone.gamepedia.com/Patch_15.4.0.34670,feature
+14-03-2019,Arena wins,https://hearthstone.gamepedia.com/Patch_13.4.0.29349,feature
+14-03-2016,"deck recipes +9 slots ",https://hearthstone.gamepedia.com/Patch_4.2.0.12051,feature
+1-06-2017,deck import,https://hearthstone.gamepedia.com/Patch_8.2.0.19506,feature
+19-12-2019,Galakrond Shaman,https://hearthstone.gamepedia.com/Patch_16.0.5.38377,nerfs
+22-05-2019,Preparation,https://hearthstone.gamepedia.com/Patch_16.0.5.38377,nerfs
+18-10-2018,Mana Wyrm,https://hearthstone.gamepedia.com/Patch_12.2.0.27358,nerfs
+29-01-2015,Undertaker,https://hearthstone.gamepedia.com/Patch_2.1.0.7628,nerfs
+18-09-2017,Innervate,https://hearthstone.gamepedia.com/Patch_9.1.0.20970,nerfs
+6-02-2018,NeutralStone,https://hearthstone.gamepedia.com/Patch_10.2.0.23180,nerfs
+22-05-2018,Caverns Below (bis),https://hearthstone.gamepedia.com/Patch_11.1.1.24589,nerfs
+10-07-2017,Caverns Below,https://hearthstone.gamepedia.com/Patch_8.4.0.20022,nerfs
+28-02-2017,Small Time Buccaneer,https://hearthstone.gamepedia.com/Patch_7.1.0.17720,nerfs
+3-10-2016,Yogg,https://hearthstone.gamepedia.com/Patch_6.1.3.14830,nerfs
+20-10-2016,Murlocs,https://hearthstone.gamepedia.com/Patch_6.2.0.15181,nerfs
+8-08-2017,no dup legendaries,https://hearthstone.gamepedia.com/Patch_9.0.0.20457,feature
+8-05-2014,Unleash the Hounds,https://hearthstone.gamepedia.com/Patch_1.0.0.5314,nerfs
+22-07-2014,Eaglehorn Bow,https://hearthstone.gamepedia.com/Patch_1.1.0.6024#Card_Changes,nerfs
+22-09-2014,Leeroy + Buzzard,https://hearthstone.gamepedia.com/Patch_1.2.0.6485,nerfs
+4-12-2014,spectate,https://hearthstone.gamepedia.com/Patch_2.0.0.7234,feature
+4-12-2014,Gadgetzan Auctioneer,https://hearthstone.gamepedia.com/Patch_2.0.0.7234,nerfs
+20-10-2015,Warsong Commander,https://hearthstone.gamepedia.com/Patch_3.2.0.10604,nerfs
+15-06-2015,Tavern Brawl,https://hearthstone.gamepedia.com/Patch_2.7.0.9166,feature
+2-08-2018,Shadow Boxer,https://hearthstone.gamepedia.com/Patch_12.0.0.25770,nerfs
+5-02-2019,Equality,https://hearthstone.gamepedia.com/Patch_13.2.0.28855#Card_Changes,nerfs
+19-12-2018,Wild Growth,https://hearthstone.gamepedia.com/Patch_13.0.3.28329,nerfs
+26-08-2019,Barnes,https://hearthstone.gamepedia.com/Patch_15.4.0.34670,nerfs
+10-09-2019,discover (no class bonus),https://hearthstone.gamepedia.com/Patch_15.2.0.33717,keyword
+5-12-2019,echo (no 0 cost),https://hearthstone.gamepedia.com/Patch_16.0.0.37060,keyword
+2-10-2018,Cast When Drawn,https://hearthstone.gamepedia.com/Patch_12.2.0.26996,keyword
+4-04-2019,Archmage Vargoth,https://hearthstone.gamepedia.com/Patch_14.0.0.29933,batch
+4-04-2017,Hall of Fame,https://hearthstone.gamepedia.com/Hall_of_Fame,feature
