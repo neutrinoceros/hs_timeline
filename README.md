@@ -1,2 +1,4 @@
 # hs_timeline
-A notebook with data to generate a patch timeline for the game hearthstone
+https://mybinder.org/v2/gh/neutrinoceros/hs_timeline/binder-setup?filepath=hearthstone_timeline_graph.ipynb
+
+A visualization of Hearthstone's patch history.
